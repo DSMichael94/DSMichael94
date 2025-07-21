@@ -1,5 +1,5 @@
 ## Hello there 👋
-# 👋 Hi, I'm Michael Jamaica
+# I'm Michael Jamaica
 
 I'm a Data Scientist passionate about building intelligent systems, solving real-world problems through data, and constantly learning the latest in AI and ML.
 
