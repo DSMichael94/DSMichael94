@@ -85,7 +85,7 @@ I'm a Data Scientist passionate about building intelligent systems, solving real
 ## 📬 Contact
 
 📧 Email: mijc.094@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/m-jamaica](https://www.linkedin.com/in/m-jamaica/)
+
 
 
 <blockquote align="center">
