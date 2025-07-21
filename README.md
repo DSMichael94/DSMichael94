@@ -82,12 +82,11 @@ I'm a Data Scientist passionate about building intelligent systems, solving real
 
 ## 📬 Contact
 
-<p align="center">
-  <a href="mailto:mijc.094@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/m-jamaica/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## 📬 Contact
 
----
+📧 Email: mijc.094@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/m-jamaica](https://www.linkedin.com/in/m-jamaica/)
+
 
 <blockquote align="center">
   <i>"Great models don't come from code — they come from understanding the problem."</i>
