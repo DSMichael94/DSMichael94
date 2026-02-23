@@ -1,4 +1,4 @@
-# Hi there, I'm Michael 👋
+# Hello there 
 
 I am an **Aspiring Data Scientist and Python Developer** focused on building a solid foundation in data analysis and automated scripting.
 
@@ -15,9 +15,8 @@ I am an **Aspiring Data Scientist and Python Developer** focused on building a s
 ### 🌱 Learning & Interests
 * **Languages:** English & Spanish.
 * **Interests:** Data cleaning, Statistical basics, and Data Visualization.
-* **Off-duty:** When I'm not coding or analyzing data, you might find me exploring the lands of **Skyrim**.
+* **Off-duty:** When I'm not coding or analyzing data, you might find me exploring the lands of **Skyrim** 🐉.
 
 ### 📊 GitHub Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSMichael94&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSMichael94&layout=compact&theme=radical)
-
