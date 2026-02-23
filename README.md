@@ -4,7 +4,7 @@ I am an **Aspiring Data Scientist and Python Developer** focused on building a s
 
 ### 🔭 Currently working on
 * **Time-Series Analysis Project:** Analyzing temporal data patterns as part of my current academic/professional training.
-* **Python Foundations:** Developing clean, efficient code for data processing and automation.
+* **Python Foundations:** Developing clean, efficient code for data processing and automation using **Google Antigravity**.
 
 ### 🛠️ Technical Toolbox
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,7 +13,7 @@ I am an **Aspiring Data Scientist and Python Developer** focused on building a s
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🌱 Learning & Interests
-* **Languages:** English & Spanish
+* **Languages:** English & Spanish.
 * **Interests:** Data cleaning, Statistical basics, and Data Visualization.
 * **Off-duty:** When I'm not coding or analyzing data, you might find me exploring the lands of **Skyrim**.
 
@@ -21,5 +21,3 @@ I am an **Aspiring Data Scientist and Python Developer** focused on building a s
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSMichael94&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSMichael94&layout=compact&theme=radical)
 
-### 📫 Connect with me
-* **LinkedIn:** [https://www.linkedin.com/in/m-jamaica/]
